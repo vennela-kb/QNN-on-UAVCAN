@@ -7,3 +7,4 @@ Applying the following steps in Quantum Neural Networks on this dataset:
 4.Build a quantum kernel function, enabling the QNN to calculate similarities between embedded states.
 5.Set up the QNN with a variational quantum circuit, trained on labeled CAN data patterns (normal vs. attack).
 6.Test the QNN on unseen CAN data to assess its ability to generalize and accurately detect anomalies based on temporal patterns.
+ 
