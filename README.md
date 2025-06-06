@@ -90,7 +90,7 @@ pip install qiskit qiskit-machine-learning qiskit-aer matplotlib numpy scipy pan
 - **Future Enhancements**: Consider adding Variational Quantum Eigensolver (VQE) and Quantum Approximate Optimization Algorithm (QAOA) implementations.
 
 ## Author
-[Your Name]
+Vennela Kothakonda
 
 ## License
 This project is open-source and follows [MIT License](LICENSE).
